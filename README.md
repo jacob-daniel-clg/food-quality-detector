@@ -18,13 +18,13 @@ This solution aims to assist farmers, vendors, and supply chain inspectors by re
 
 Here is a quick look at the Fruit Quality Detection Web App in action:
 
-![Fruit Quality Detection Demo](https://your-image-or-gif-link-here)
+![Fruit Quality Detection Demo](demo.pdf)
 
 - Upload an image of an apple.
 - The system classifies it as Healthy, Rotten, or Scab.
 - It then provides a visual advisory and explanation based on the prediction.
 
-> 🔗 *Live deployment (coming soon or insert Streamlit link if hosted)*
+> 🔗 *[Live deployment (coming soon or insert Streamlit link if hosted)](https://food-quality-detector-lhyodzh53worpc3a4ehbwh.streamlit.app/)*
 
 
 ## Features
