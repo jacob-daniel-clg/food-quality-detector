@@ -52,7 +52,7 @@ The **Apple Disease Dataset** used in this project is a custom dataset, created 
 
 You can explore and download the dataset directly from the following link:
 
-👉 [Download the Apple Disease Dataset from Kaggle](https://drive.google.com/drive/folders/1cqV_C51BThqkjZ932wIgMwLTGcVfDer2?usp=sharing)
+👉 [Download the Apple Disease Dataset from Drive](https://drive.google.com/drive/folders/1cqV_C51BThqkjZ932wIgMwLTGcVfDer2?usp=sharing)
 
 
 ## 📦 Installation Guide
