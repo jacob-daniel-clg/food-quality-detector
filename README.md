@@ -117,9 +117,10 @@ You can load the model from the `applemodel.h5` file and use it for predictions 
 ## Author & Acknowledgments
 
 **Author**: Jacob Daniel R 
+
 This project was conducted as part of the **Naan Mudhalvan** initiative. 
 
-You can connect with me through my professional platforms:  
+You can connect with me through my  
 - [LinkedIn](www.linkedin.com/in/jacobdanielr)  
 - Email: [jacobdanielr82@gmail.com]
 
