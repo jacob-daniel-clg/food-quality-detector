@@ -46,7 +46,7 @@ Here is a quick look at the Fruit Quality Detection Web App in action:
 - **Jupyter Notebook** – Model training and experimentation
 
 
-## 🗂️ Dataset
+## Dataset
 
 The **Apple Disease Dataset** used in this project is a custom dataset, created to classify apples into three categories: **Healthy**, **Rotten**. Due to the large size of the dataset, it has been uploaded to **Google Drive** for easy access and download.
 
@@ -55,7 +55,7 @@ You can explore and download the dataset directly from the following link:
 👉 [Download the Apple Disease Dataset from Drive](https://drive.google.com/drive/folders/1cqV_C51BThqkjZ932wIgMwLTGcVfDer2?usp=sharing)
 
 
-## 📦 Installation Guide
+## Installation Guide
 
 To set up the project on your local machine, follow these steps:
 
@@ -121,7 +121,7 @@ You can load the model from the `applemodel.h5` file and use it for predictions 
 This project was conducted as part of the **Naan Mudhalvan** initiative. 
 
 You can connect with me through my  
-- [LinkedIn](www.linkedin.com/in/jacobdanielr)  
+- [LinkedIn Profile](https://www.linkedin.com/in/jacobdanielr)
 - Email: [jacobdanielr82@gmail.com]
 
 Feel free to reach out for any inquiries or collaboration opportunities!
