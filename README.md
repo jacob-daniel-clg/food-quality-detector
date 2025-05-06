@@ -126,9 +126,9 @@ Feel free to reach out for any inquiries or collaboration opportunities!
 
 ## Team Members:
 
-[Akhil M A](https://www.github.com/Akhilma2005) 
+- [Akhil M A](https://www.github.com/Akhilma2005) 
 
-[Abin R S]GitHub: github.com/Member3Username
+- [Abin R S]GitHub: github.com/Member3Username
 
 
 ## License
