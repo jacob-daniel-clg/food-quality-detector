@@ -118,17 +118,17 @@ You can load the model from the `applemodel.h5` file and use it for predictions 
 
 This project was developed as part of the Naan Mudhalvan – GUVI OpenCV & Deep Learning Program.
 
-**Author**: Jacob Daniel R 
+## Members:
 
-- [LinkedIn Profile](https://www.linkedin.com/in/jacobdanielr)
-- Email: [jacobdanielr82@gmail.com]
+**1**. [Jacob Daniel R](https://github.com/jacob-daniel-clg) 
+       - [LinkedIn Profile](https://www.linkedin.com/in/jacobdanielr)
+       - Email: [jacobdanielr82@gmail.com]
+
+**2**. [Akhil M A](https://www.github.com/Akhilma2005) 
+
+**3**. [Abin R S](https://www.github.com/abin-manu)
+
 Feel free to reach out for any inquiries or collaboration opportunities!
-
-## Team Members:
-
-- [Akhil M A](https://www.github.com/Akhilma2005) 
-
-- [Abin R S]GitHub: github.com/Member3Username
 
 
 ## License
